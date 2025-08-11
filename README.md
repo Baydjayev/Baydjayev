@@ -64,7 +64,7 @@ Dasturlash sohasida faol harakat qilayotgan dasturchi. Yangi texnologiyalarni o'
 - 🎯 **[Loyiha nomi 2](link)** - Qisqa tavsif
 - ⚡ **[Loyiha nomi 3](link)** - Qisqa tavsif
 
-## 🎯 2024 yil maqsadlarim
+## 🎯 2025 yil maqsadlarim
 - [ ] Yangi dasturlash tilini o'rganish
 - [ ] Open source loyihalarga hissa qo'shish
 - [ ] Shaxsiy veb-sayt yaratish
