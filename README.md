@@ -32,18 +32,6 @@ Dasturlash sohasida faol harakat qilayotgan dasturchi. Yangi texnologiyalarni o'
 - **Ma'lumotlar bazasi:** MySQL, PostgreSQL, MongoDB
 - **Vositalar:** Git, Docker, VS Code, Linux
 
-## 🔥 Faol loyihalarim
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
-  <strong>Projects I'm Working On</strong>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</div>
-
-- 🌟 **[Loyiha nomi 1](link)** - Qisqa tavsif
-- 🎯 **[Loyiha nomi 2](link)** - Qisqa tavsif
-- ⚡ **[Loyiha nomi 3](link)** - Qisqa tavsif
-
 ## 🎯 2025 yil maqsadlarim
 - [ ] Yangi dasturlash tilini o'rganish
 - [ ] Open source loyihalarga hissa qo'shish
