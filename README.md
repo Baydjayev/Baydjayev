@@ -32,26 +32,6 @@ Dasturlash sohasida faol harakat qilayotgan dasturchi. Yangi texnologiyalarni o'
 - **Ma'lumotlar bazasi:** MySQL, PostgreSQL, MongoDB
 - **Vositalar:** Git, Docker, VS Code, Linux
 
-## 📊 GitHub statistikam
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-  <strong>GitHub Activity!</strong>&nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ## 🔥 Faol loyihalarim
 
 <div align="center">
